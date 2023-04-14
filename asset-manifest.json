@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/doggy-daycare/static/css/main.4207e832.css",
+    "main.js": "/doggy-daycare/static/js/main.b84adefb.js",
+    "index.html": "/doggy-daycare/index.html",
+    "main.4207e832.css.map": "/doggy-daycare/static/css/main.4207e832.css.map",
+    "main.b84adefb.js.map": "/doggy-daycare/static/js/main.b84adefb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4207e832.css",
+    "static/js/main.b84adefb.js"
+  ]
+}
